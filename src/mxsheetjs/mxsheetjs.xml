@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="mxsheetjs.widget.mxsheetjs" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>mxsheetjs</name>
+    <description>Mendix sheetjs/canvas-datagrid</description>
+
+    <icon>iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABZ0lEQVR4nO3ZwQ3CMAwFUHb1ZnDDrIDUCxfYwTPABOZCq1JKISXtx/mp9E+o4ufJFkLZiKlvmB8x9RIQPPHpXmwBxPT5g2DP9nT1lHQv9gEiT0NWgIgI2QGircQiAJGmYVGACAiLA/z7SqwCMDUNs3+HIwKMIcwuEBVguBKUAP1poAYQ06QvLxKgXQlqgJRpKBpATH3HDvBpJSgAplaCCkBMfX++cQMMV2J4AD8ePSUhAforQQ0g9vpfgg6gXQlqgP40UAOIadLhiwRoV4IaIGUaigb4BqF4gE8rQQEwNQ1UAGLq3jTcAMOVoAToINgBxDLeS6AP8tMk5LiXQB8i1zRQA4j9cC+BLp4zs+4l0KVR01A0gFjCvQS66JL56l4CXXKN0AOIqR8ub+4l0MXWzOi9BLoUIvQAYloBxB7/JdAl0KkA6ALoVAB0AXQqALoAOhUAXQCdCoAugE4FQBdApwKgC6BDD3AHQw7TFqvIAMgAAAAASUVORK5CYII=</icon>
+
+    <properties>
+        <property key="dummyKey" type="string" required="false" defaultValue="">
+            <caption>Dummy key</caption>
+            <category>Appearance</category>
+            <description>This key was added to make the widget work in the Modeler (needs atleast 1 key). Please change/remove this one</description>
+        </property>
+    </properties>
+</widget>
